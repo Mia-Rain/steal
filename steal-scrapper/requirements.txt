@@ -1,0 +1,4 @@
+igdb-api-v4
+requests
+cfscrape
+numpy
